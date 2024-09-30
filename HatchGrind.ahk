@@ -28,8 +28,8 @@ global SHOW_OCR_OUTLINE := getSetting("ShowOcrOutline")
 global DARK_MODE := getSetting("DarkMode")
 
 ; Zone settings.
-global FIRST_ZONE := 210
-global BEST_ZONE := 214
+global FIRST_ZONE := 225
+global BEST_ZONE := 229
 
 
 ; ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
